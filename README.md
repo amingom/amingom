@@ -85,7 +85,7 @@
 <details> 
   <summary><h2 style="font-size: 22px;">📫 Contáctame:</h2></summary>
   <br>
-    <a href="[https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/álvaromingomuñoz/)" target="_blank">
+    <a href="https://www.linkedin.com/in/álvaromingomuñoz/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
     </a>
 </details>
