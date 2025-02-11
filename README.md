@@ -72,7 +72,7 @@
 
 </details>
 
-<h2 style="font-size: 22px;">📊Estadisticas de GitHub:</h2>
+<h2 style="font-size: 22px;">📊Estadísticas de GitHub:</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=amingom&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
