@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amingom.amingom"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=22&pause=1000&center=true&width=435&lines=I'm+%C3%81lvaro+%F0%9F%A4%96;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing   SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=22&pause=1000&center=true&width=435&lines=I'm+%C3%81lvaro+%F0%9F%A4%96;Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing   SVG" /></a>
 </div>
 
 
