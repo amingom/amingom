@@ -20,6 +20,9 @@
   <a href="https://github.com/amingom/TarTradia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amingom&repo=TarTradia&theme=cobalt" />
   </a>
+  <a href="https://github.com/amingom/Juego-SnakeChallenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amingom&repo=Juego-SnakeChallenge&theme=cobalt" />
+  </a>
 </div>
 
 
