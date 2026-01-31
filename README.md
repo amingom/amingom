@@ -23,6 +23,9 @@
   <a href="https://github.com/amingom/Juego-SnakeChallenge">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=amingom&repo=Juego-SnakeChallenge&theme=cobalt" alt="Proyecto: Juego Snake" />
   </a>
+  <a href="https://github.com/amingom/Chatbot-Personal">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=amingom&repo=Chatbot-Personal&theme=cobalt" alt="Proyecto: Chatbot Personal" />
+  </a>
 </div>
 
 ---
